@@ -1,0 +1,154 @@
+{
+  "books": [
+    {
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "coverImage": "https://m.media-amazon.com/images/I/91ebghaV-eL._UF1000,1000_QL80_.jpg",
+      "availability": true
+    },
+    {
+      "title": "The Selfish Gene",
+      "author": "Richard Dawkins",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/a/a2/The_Selfish_Gene3.jpg",
+      "availability": true
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "coverImage": "https://m.media-amazon.com/images/I/713jIoMO3UL.jpg",
+      "availability": true
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "coverImage": "https://m.media-amazon.com/images/I/71f6DceqZAL.jpg",
+      "availability": true
+    },
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "coverImage": "https://m.media-amazon.com/images/I/815cmwik-UL._UF1000,1000_QL80_.jpg",
+      "availability": true
+    },
+    {
+      "title": "Man’s Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "coverImage": "https://m.media-amazon.com/images/I/61157LApbuL.jpg",
+      "availability": true
+    },
+    {
+      "title": "Guns, Germs, and Steel",
+      "author": "Jared Diamond",
+      "coverImage": "https://m.media-amazon.com/images/I/81RdveuYXWL.jpg",
+      "availability": true
+    },
+    {
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "coverImage": "https://m.media-amazon.com/images/I/81bLPNVfJTL._UF894,1000_QL80_.jpg",
+      "availability": true
+    },
+    {
+      "title": "Into the Wild",
+      "author": "Jon Krakauer",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Into_the_Wild_%282007_film_poster%29.png/250px-Into_the_Wild_%282007_film_poster%29.png",
+      "availability": true
+    },
+    {
+      "title": "On the Road",
+      "author": "Jack Kerouac",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/7/72/On_the_Road_FilmPoster.jpeg",
+      "availability": true
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/1200px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+      "availability": true
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/commons/5/51/1984_first_edition_cover.jpg",
+      "availability": true
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pickering_-_Greatbatch_-_Jane_Austen_-_Pride_and_Prejudice_-_She_then_told_him_what_Mr._Darcy_had_voluntarily_done_for_Lydia.jpg/250px-Pickering_-_Greatbatch_-_Jane_Austen_-_Pride_and_Prejudice_-_She_then_told_him_what_Mr._Darcy_had_voluntarily_done_for_Lydia.jpg",
+      "availability": true
+    },
+    {
+      "title": "Educated",
+      "author": "Tara Westover",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/1/1f/Educated_%28Tara_Westover%29.png",
+      "availability": true
+    },
+    {
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2LkT7EDPsuUntnuRhws4SXU4MtOPHYyJ9hA&s",
+      "availability": true
+    },
+    {
+      "title": "Outliers",
+      "author": "Malcolm Gladwell",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWYNp7T-5Es9kHOT5eZg4XzvL_Y9jsx7HXRA&s",
+      "availability": true
+    },
+    {
+      "title": "How Not to Die",
+      "author": "Michael Greger",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkw6VAd3aIDTrecQw96GQdlh2SYT-jsv2Dug&s",
+      "availability": true
+    },
+    {
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/9/91/TheBodyKeepstheScore.jpg",
+      "availability": true
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/2/28/Atomic_Habits_book_cover.jpg",
+      "availability": true
+    },
+    {
+      "title": "Harry Potter and the Sorcerer’s Stone",
+      "author": "J.K. Rowling",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/id/c/c3/Harry_Potter_and_the_Sorcerer%27s_Stone_Poster.jpg",
+      "availability": true
+    },
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/3/39/The_Hunger_Games_cover.jpg",
+      "availability": true
+    },
+    {
+      "title": "A Short History of Nearly Everything",
+      "author": "Bill Bryson",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/e/ed/Bill_bryson_a_short_history.jpg",
+      "availability": true
+    },
+    {
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/b/b9/Rich_Dad_Poor_Dad.jpg",
+      "availability": true
+    },
+    {
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/1/11/Lean_Startup.png",
+      "availability": true
+    },
+    {
+      "title": "The Life-Changing Magic of Tidying Up",
+      "author": "Marie Kondo",
+      "coverImage": "https://m.media-amazon.com/images/I/81X13ae1QkL._UF1000,1000_QL80_.jpg",
+      "availability": true
+    }
+  ]
+}
